@@ -17,4 +17,13 @@ Please note that even though companies can hire students for regular summer inte
     - After response is received, the customer can select which loan and rate and likes
     - once decided, he might fill additional information;
     - The loan can be approved immediately and purchase will be compl
+    
+2. #### Sojitz Autogroup
+- Email: yi.liu@sojitzautogroup.com
+- Want to have one website or app that could do the following:
+    - My team is building a digital retailing solution to help traditional dealership offer their customer 100% on-line purchase    experience
+    - Help convert current site element to online retailing. 
+    - If you would like to help please contact me.
+    - Project length 3-6 month
+    - Looking for: Full stack developer, UI designer, Project lead
 
