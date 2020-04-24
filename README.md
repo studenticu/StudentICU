@@ -10,10 +10,11 @@ Please note that even though companies can hire students for regular summer inte
 ### Project list:
 
 1. #### Shoparound
+- Email: newreferalexp2019atl@gmail.com
 - Want to have one website or app that could do the following:
     - when shopping at the website for big item, such as washer, dryer, we will provider an option for finance;
     - The page will ask basic information like first name, last name, social, address etc and send those information to bank 
     - After response is received, the customer can select which loan and rate and likes
     - once decided, he might fill additional information;
     - The loan can be approved immediately and purchase will be compl
-- Email: newreferalexp2019atl@gmail.com
+
