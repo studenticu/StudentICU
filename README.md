@@ -54,8 +54,8 @@ Marketing experiences, plan user interview (email campaign, phone call, etc.) an
     - Strong programming skills and verifiable mastery of at least one of the following languages: Python, C/C++ and JavaScript
     - Ability to work independently or work with a team remotely
 - What you will do:
-	- Work closely with clients and suppliers in North America to test/pilot on projects
-	- Communication with oversea teams to share know-how and optimization on products
-	- Manage Individual Projects, deadlines and deliverables.
+    - Work closely with clients and suppliers in North America to test/pilot on projects
+    - Communication with oversea teams to share know-how and optimization on products
+    - Manage Individual Projects, deadlines and deliverables.
  
 
